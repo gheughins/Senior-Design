@@ -11,25 +11,25 @@ uses some older software and would like notifications when the stock is needed t
 ## Milestone Reports
 
 Milestone 1:
-https://docs.google.com/document/d/1OKQr3U8m8m3PBE3ej4UzvNeMnxG-eNtmdmE1mOWF8so/edit?usp=sharing
+[Milestone1](https://docs.google.com/document/d/1OKQr3U8m8m3PBE3ej4UzvNeMnxG-eNtmdmE1mOWF8so/edit?usp=sharing)
 Milestone 2:
-https://docs.google.com/document/d/1JFHUacSmjSks0B6BZpYsxTwjIViIpwLnF9jeJXp-kkc/edit?usp=sharing
+[Milestone 2](https://docs.google.com/document/d/1JFHUacSmjSks0B6BZpYsxTwjIViIpwLnF9jeJXp-kkc/edit?usp=sharing)
 
 ## What our client wants
 
 Biggest problems that they are currently facing:
-*The person in charge of ordering doesn’t have any type of notification system, so they often forget when it is time to order
-If that person is sick, the person who fills in for them doesn’t know what to do (No online records)
-  *Make it easier to switch shifts/jobs with someone
-*There are a lot of different providers for different products and they all come on different dates
-*There is nothing that visually analyzes sales (its all memory)
-  *So, if the person with that knowledge isn’t there, there is no way to know
-*Counting boxes in the storage facility by hand
-  *Numbers often don’t match
-*Has one big inventory for storage facility and store
-  *Make it two separate inventories
-*Hard to keep track of ingredients (items with no barcode)
-  *Buying mayo vs. selling a sandwich
+* The person in charge of ordering doesn’t have any type of notification system, so they often forget when it is time to order
+ * If that person is sick, the person who fills in for them doesn’t know what to do (No online records)
+  * Make it easier to switch shifts/jobs with someone
+* There are a lot of different providers for different products and they all come on different dates
+* There is nothing that visually analyzes sales (its all memory)
+  * So, if the person with that knowledge isn’t there, there is no way to know
+* Counting boxes in the storage facility by hand
+  * Numbers often don’t match
+* Has one big inventory for storage facility and store
+  * Make it two separate inventories
+* Hard to keep track of ingredients (items with no barcode)
+  * Buying mayo vs. selling a sandwich
 
 # Our wishlist 
 1. create an app on both the Mac app store and Android
