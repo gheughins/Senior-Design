@@ -11,9 +11,9 @@ uses some older software and would like notifications when the stock is needed t
 ## Milestone Reports
 
 Milestone 1:  
-[Milestone1](https://docs.google.com/document/d/1OKQr3U8m8m3PBE3ej4UzvNeMnxG-eNtmdmE1mOWF8so/edit?usp=sharing)  
+[Milestone1 Doc](https://docs.google.com/document/d/1OKQr3U8m8m3PBE3ej4UzvNeMnxG-eNtmdmE1mOWF8so/edit?usp=sharing)  
 Milestone 2:  
-[Milestone 2](https://docs.google.com/document/d/1JFHUacSmjSks0B6BZpYsxTwjIViIpwLnF9jeJXp-kkc/edit?usp=sharing)
+[Milestone 2 Doc](https://docs.google.com/document/d/1JFHUacSmjSks0B6BZpYsxTwjIViIpwLnF9jeJXp-kkc/edit?usp=sharing)
 
 ## What our client wants
 
