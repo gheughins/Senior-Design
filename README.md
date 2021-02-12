@@ -3,7 +3,7 @@ The inspiration behind the project was Alejandra’s family business. Her  famil
  La Eso currently uses the software Microsoft Dynamic to keep track of inventory, sales, and basic reports. For this project, we will be researching the properties that Microsoft Dynamic offers to find improvements, and then create a new database management system for restaurants and convenience stores to keep track of inventory and stock.
 
 ## Project Description
-This database management system is reaching out to our small business owners to keep track of their inventory and stock.    
+This database management system is reaching out to our small business owners to keep track of their inventory and stock.  
 One of the inconveniences that we would like to address is keeping track of items that are sold differently that they are stocked.  An example of this would be stocking twenty chickens and then selling ten wings, four breasts, and two thighs.  The project will also have a database that saves all data and can give you reports in different formats.  Ideally, you will be able to see graphs, trends, most sold items, items that should be taken out of sale, and anything else that may be necessary to keep track of sales.  The program will also use this data to send out notifications when you need to order more of a product. We have many more ideas going, but these are the ones that we are mainly gearing our focus towards.  
 We’d like to start off working on this product in app style for either Android or iOS.  In the future we may also potentially decide to add in an option to run it in a web browser or a computer program as well.  
 
