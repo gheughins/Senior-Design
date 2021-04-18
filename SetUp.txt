@@ -7,6 +7,12 @@ Set up on Visual Studios 2019
 Adding a File
 https://www.youtube.com/watch?v=iq_sBeiN-Qk&ab_channel=ProgrammerTube
 
+Adding
+1. Under the git tab click Commit or Stash
+2. Click the add button next to the additional/changed files
+3. Write a message about what you changed
+4. Click the Commit button
+5. Push the data
 
 Push
 1. Under the git tab click push
