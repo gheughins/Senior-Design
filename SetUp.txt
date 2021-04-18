@@ -1,0 +1,15 @@
+Set up on Visual Studios 2019
+1. Open Visual Studios 
+2. Select Clone a repository
+3. Copy the clone information for instance under the download code button: https://github.com/gheughins/Senior-Design.git
+4. Open the files
+
+Adding a File
+https://www.youtube.com/watch?v=iq_sBeiN-Qk&ab_channel=ProgrammerTube
+
+
+Push
+1. Under the git tab click push
+
+Pull
+1. Under the git tab click pull
