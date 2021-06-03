@@ -24,7 +24,7 @@ int hashCode(char * str, int size) {
 	}
 	return key % size;
 }
-struct product* search(int key, int size, struct product** hashArray) {
+struct product* search(char* key, int size, struct product** hashArray) {
 	//get the hash 
 
 	int hashIndex = hashCode(key, size);
@@ -32,7 +32,7 @@ struct product* search(int key, int size, struct product** hashArray) {
 	//move in array until an empty 
 	while (hashArray[hashIndex] != NULL) {
 
-		if (hashArray[hashIndex]->key == key)
+		if (hashArray[hashIndex]->key == hashIndex)
 			return hashArray[hashIndex];
 
 		//go to next cell
@@ -42,7 +42,7 @@ struct product* search(int key, int size, struct product** hashArray) {
 		hashIndex %= size;
 	}
 
-	return hashArray;
+	return NULL;
 }
 
 
@@ -50,8 +50,20 @@ int main(int argc, char* argv[])
 {
 	struct product hashArray[100];
 	FILE* fptr;
-	fptr = fopen(argv[1], "r");
-	char* temp;
-	fscanf(fptr, "%s", &temp);
-	printf("%s", temp);
+	printf("%s\n", argv[1]);
+	if ((fptr = fopen(argv[1], "r")) == NULL) {
+		printf("Error! opening file");
+
+		// Program exits if the file pointer returns NULL.
+		exit(1);
+	}
+	for (int i = 0; i < 150; i++) {
+		char temp[1000];
+		fgets(temp, 1000, fptr);
+		printf("%s\n", temp);
+		if (temp[0]!=';') {
+			struct product item;
+
+		}
+	}
 }
