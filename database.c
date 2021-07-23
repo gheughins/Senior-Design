@@ -62,8 +62,15 @@ int main(int argc, char* argv[])
 		fgets(temp, 1000, fptr);
 		printf("%s\n", temp);
 		if (temp[0]!=';') {
-			struct product item;
+			struct product *item;
+			char* token = strtok(temp, ",");
+			if (token[0] == ' ') {
 
+			}
+			else {
+				item = search(token, strlen(token), hashArray);
+			
+			}
 		}
 	}
 }
