@@ -9,6 +9,7 @@ struct product {
 	char description[100];
 	char department[100];
 	double price;
+	int total_sale;
 	int quantity;
 	int date;
 	int time;
@@ -48,7 +49,7 @@ struct product* search(char* key, int size, struct product** hashArray) {
 
 int main(int argc, char* argv[])
 {
-	struct product hashArray[100];
+	struct product *hashArray;
 	FILE* fptr;
 	printf("%s\n", argv[1]);
 	if ((fptr = fopen(argv[1], "r")) == NULL) {
@@ -65,12 +66,27 @@ int main(int argc, char* argv[])
 			struct product *item;
 			char* token = strtok(temp, ",");
 			if (token[0] == ' ') {
-
+				memcpy(token, &token[1], strlen(token));
+				hashArray = search(token, strlen(token), hashArray);
 			}
 			else {
-				item = search(token, strlen(token), hashArray);
-			
+				hashArray = search(token, strlen(token), hashArray);
 			}
+			*item->name = token;
+			token = strtok(NULL, ",");
+			*item->description = token;
+			token = strtok(NULL, ",");
+			*item->department = token;
+			token = strtok(NULL, ",");
+			item->date = token;
+			token = strtok(NULL, ",");
+			item->quantity = token;
+			token = strtok(NULL, ",");
+			item->total_sale = token;
+			token = strtok(NULL, ",");
+			item->price = strtod(token, &token);
+			token = strtok(NULL, ",");
+			item->time = token;
 		}
 	}
 }
