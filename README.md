@@ -50,7 +50,7 @@ Milestone 2:
 Milestone 3:
 [Milestone 3 Doc](https://docs.google.com/document/d/1lhw29SUGObyKLxJDli-ZQB29JCs93V7A4E2VIe7wzMg/edit?usp=sharing)
 
-###Second Semester
+### Second Semester
 Milestone 4:
 [Milestone 4 Doc](https://docs.google.com/document/d/1MHSle93-F6qRqsv-GFfJX2rZBI6_jZSF/edit?usp=sharing&ouid=106405078030531182838&rtpof=true&sd=true)
 
