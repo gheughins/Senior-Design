@@ -40,9 +40,16 @@ Our product will run on an Android Platform, but will also be available for IOS.
 
 ## Milestone Reports
 
+###First Semester
 Milestone 1:  
 [Milestone1 Doc](https://docs.google.com/document/d/1OKQr3U8m8m3PBE3ej4UzvNeMnxG-eNtmdmE1mOWF8so/edit?usp=sharing)  
+
 Milestone 2:  
 [Milestone 2 Doc](https://docs.google.com/document/d/1JFHUacSmjSks0B6BZpYsxTwjIViIpwLnF9jeJXp-kkc/edit?usp=sharing)
+
 Milestone 3:
 [Milestone 3 Doc](https://docs.google.com/document/d/1lhw29SUGObyKLxJDli-ZQB29JCs93V7A4E2VIe7wzMg/edit?usp=sharing)
+
+###Second Semester
+Milestone 4:
+[Milestone 4 Doc](https://docs.google.com/document/d/1MHSle93-F6qRqsv-GFfJX2rZBI6_jZSF/edit?usp=sharing&ouid=106405078030531182838&rtpof=true&sd=true)
